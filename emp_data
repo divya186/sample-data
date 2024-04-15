@@ -1,0 +1,12 @@
+id,name,country,dep_id,gender
+1 ,a,i,2,m
+2,b,i,2,f
+3,c,i,2,m
+4,d,i,3,m
+5,e,i,4,f
+6,f,i,4,f
+7,g,i,4,m
+8,h,i,4,m
+9,i,i,5,m
+10,j,i,5,f
+11,k,i,6,f
